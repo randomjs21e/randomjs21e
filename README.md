@@ -8,8 +8,8 @@
 
 | Project | Description | Link |
 |---|---|---|
-| **Altexel AI** | AI platform — chat, apps, agents, credits | [altexel.ai](https://altexel.ai) |
-| **Routine** | AI workspace / notes — ChatGPT-style, Azerbaijani | [routine.kesu.com](https://routine.kesu.com) |
+| **Altexel AI** | AI platform — chat, apps, agents, credits | [Not Hosted]() |
+| **Routine** | AI workspace / notes — ChatGPT-style, Azerbaijani | [routine.kesug.com](https://routine.kesu.com) |
 | **Cloud** | Google Workspace alternative (Django) | [GitHub](https://github.com/randomjs21e/cloud) |
 | **CMS Proyekt** | Single-file WordPress-like CMS in PHP + SQLite | [GitHub](https://github.com/randomjs21e/cms-proyekt) |
 
@@ -24,7 +24,7 @@
 ## 📫 Reach me
 
 - **Email:** tunarrustamli@proton.me
-- **Website:** [routine.kesu.com](https://routine.kesu.com)
+- **Website:** [routine.kesu.com](https://routine.kesug.com)
 
 ---
 
